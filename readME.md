@@ -19,6 +19,8 @@ This repository delivers a full pipeline – from exploratory data analysis to a
 ## Dataset Download Link
 https://drive.google.com/drive/folders/1WXLTp57_TYa61rcPfQIzRUcE1Rz76Emk
 (Copy and paste the above link in browser if it isn't redirecting upon clicking..)
+## Download the Distilbert model folder(if you do not wish to run the ipynb file then use this from here..)
+https://drive.google.com/drive/folders/1TpwOC_6SbPEAXpZViusrnTXAQd1aYC1C?usp=sharing
 1. **Clone & install**
 git clone 🔧YOUR-GITHUB-URL.git
 cd comment-toxicity
@@ -69,5 +71,6 @@ MIT – see LICENSE file.
 Dataset: Jigsaw/Conversation-AI “Toxic Comment Classification Challenge”.  
 Project author: Dhruv Tamirisa.  
 Guidelines template courtesy of the AlmaBetter ML capstone rubric.
+
 
 
